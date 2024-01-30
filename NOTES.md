@@ -115,6 +115,10 @@ YELO - Solar powered bag that converts into a desk | Rural marketing. -- Video
 
 ---
 
+Speaker : Sachin Pande -- Connected on LinkedIn
+
 Focus on consumer needs.
 Anay and Abir - Startup ?? Immersive AI
 UP65 Web Series
+Gokidogo.de - <https://www.gokidogo.de/>
+Tata Strive - Curriculum for UI/UX Design
