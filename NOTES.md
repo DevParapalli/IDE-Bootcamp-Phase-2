@@ -86,4 +86,23 @@ Not restricted to a specific field.
 
 Not just about visual design. Its about how things feel and work.
 
+"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
+Observation - Empathy - User-centric-ness - Creativity
+
+Design Thinking Questions
+
+A. ...
+
+`Image in phone`
+
+Your network is your net worth.
+
+Vegetable Vendor
+
+- Carrying a lot of weight - Can incorporate motors or multiple people to move around.
+- Money management - utilize cash drawers or digital payments, loans
+- Need to Advertize - Microphone and Speakers
+- Storage of vegetables - Ice, Refrigeration
+- Seasonal Variability - ??
+- Theft / Damage to Stock - storage warehouse, security, cameras?
