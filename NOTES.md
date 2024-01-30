@@ -106,3 +106,15 @@ Vegetable Vendor
 - Storage of vegetables - Ice, Refrigeration
 - Seasonal Variability - ??
 - Theft / Damage to Stock - storage warehouse, security, cameras?
+
+---
+
+Samsung Smart Truck - Video
+Fortune - Ghar ka khana -- Video
+YELO - Solar powered bag that converts into a desk | Rural marketing. -- Video
+
+---
+
+Focus on consumer needs.
+Anay and Abir - Startup ?? Immersive AI
+UP65 Web Series
