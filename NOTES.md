@@ -77,3 +77,13 @@ M5 - Merchant: Richard Banston, Capitilizes on opportunities, Core desire is to 
 Video <https://www.youtube.com/watch?v=0w-Ee9NONes>
 
 Video <https://www.youtube.com/watch?v=8P8gspd_Bx8>
+
+What is design thinking ?
+
+Design thinking is a method to solve problems that people face. It is creating things that people want or need.
+
+Not restricted to a specific field.
+
+Not just about visual design. Its about how things feel and work.
+
+
