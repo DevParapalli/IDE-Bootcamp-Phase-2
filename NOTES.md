@@ -75,3 +75,5 @@ M5 - Merchant: Richard Banston, Capitilizes on opportunities, Core desire is to 
 ## Day 2
 
 Video <https://www.youtube.com/watch?v=0w-Ee9NONes>
+
+Video <https://www.youtube.com/watch?v=8P8gspd_Bx8>
