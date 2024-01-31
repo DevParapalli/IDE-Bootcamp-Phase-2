@@ -178,3 +178,21 @@ Pains = (Customer) I would hate it if
 ---
 
 Ergonomics and Design - Video <https://www.youtube.com/watch?v=LAKlmdMHpdE>
+
+---
+
+GLUE
+
+G - 
+L - 
+U - Unexpected
+E - Extras
+
+Plussing - Walt Disney
+
+Red Dot Competition
+Charcoal Executive Desk
+
+Shashikant
+
+Babywork
