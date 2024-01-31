@@ -15,6 +15,11 @@ Supabase Database Password : `CodeXDevParapalli`
 Google Client ID : `330292652360-7k8942uk2shfa3ohkah9p3qkqs0v9b6s.apps.googleusercontent.com`
 Google Client Secret : `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`
 
+- <https://typogram.co/>
+- <https://www.captaincodeman.com/deploy-a-sveltekit-app-to-github-pages>
+- <https://svelteflow.dev/learn>
+- <https://snippets.khromov.se/add-a-loading-indicator-to-a-form-action-in-sveltekit/>
+
 Why is response to the need ?
 Opportunity is not a solution.
 Describe your partner ?
@@ -122,3 +127,54 @@ Anay and Abir - Startup ?? Immersive AI
 UP65 Web Series
 Gokidogo.de - <https://www.gokidogo.de/>
 Tata Strive - Curriculum for UI/UX Design
+
+## Day 3
+
+### Session 1
+
+- <https://www.strategyzer.com/library/the-business-model-canvas>
+- <https://www.strategyzer.com/library/the-value-proposition-canvas>
+
+Customer Persona
+
+- Consumer interviews
+- Potential customers
+- Look for behavioral trends
+- Optimize forms for your persona
+- How do you find those interviewees ?
+
+Persona should have
+
+- Name
+- Face - Fictional but indicative
+- Demography, Geography - Age, City, Occupation
+- Day in the life - Highlights, and Pain Points
+- Fears and motivators
+
+Value Proposition refers to the unique and compelling value that the startup offers to its customers.
+
+Gain Creators = What do you offer that makes the customers happy?
+
+Products and Services = What is the product or service that you are offering?
+
+Pain Relievers = Which features of your offering relieve the customer's pains?
+
+Gains = (Costumer) I would love it if
+
+- What would make customer happy ?
+- What do the clients want when facing the problem ?
+- This refers tot he feeling/action of costumer before he gets in contact with solution.
+
+Jobs = (Customer) I would want
+
+- What do the clients do (actions) when facing the problem ?
+- This refers to the feeling/action of costumer before he gets in contact with solution.
+
+Pains = (Customer) I would hate it if
+
+- What are the pains of the clients when facing the problem ?
+- Refers to the feeling/action of costumer before he gets in contact with solution.
+
+---
+
+Ergonomics and Design - Video <https://www.youtube.com/watch?v=LAKlmdMHpdE>
