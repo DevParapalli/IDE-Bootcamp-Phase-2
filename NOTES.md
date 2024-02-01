@@ -196,3 +196,7 @@ Charcoal Executive Desk
 Shashikant
 
 Babywork
+
+---
+
+Marketing Mix: Product, Place, Pricing, Promotion -- 4Ps
